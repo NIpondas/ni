@@ -15,7 +15,7 @@ http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1,BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1,Gazi TV
-http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8?nimblesessionid=12890513
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
