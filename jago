@@ -7,6 +7,9 @@ http://103.106.243.163:8989/star-jalsha/index.m3u8
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1,Z Bangla 2
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+EXTINF:-1,Z Bangla HD
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (2)
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1,Sony aath 2
