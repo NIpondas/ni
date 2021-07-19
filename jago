@@ -1,8 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,Star Jalsha
-http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
-#EXTINF:-1,Star Jalsha 2
-http://103.106.243.163:8989/star-jalsha/index.m3u8
+http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1,Z Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1,Z Bangla 2
