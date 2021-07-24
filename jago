@@ -4,7 +4,7 @@ http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha 2
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8?nimblesessionid=13030857
 #EXTINF:-1,Z Bangla
-http://103.205.133.19/hls/zeebanglahd.m3u8
+http://tv.pmcon.net/hls/stream5.m3u8
 #EXTINF:-1,Z Bangla 2
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 
