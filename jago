@@ -2,7 +2,7 @@
 #EXTINF:-1,Star Jalsha
 http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha 2
-http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8?nimblesessionid=13030857
+http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 #EXTINF:-1,Z Bangla
 http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1,Z Bangla 2
@@ -16,7 +16,7 @@ http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1,BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1,Gazi TV
-http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8?nimblesessionid=13030774
+http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS [BD]
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 
