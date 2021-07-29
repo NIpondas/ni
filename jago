@@ -1,4 +1,6 @@
 #EXTM3U8
+#EXTINF:-1,Discovery Bangla
+http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1,Star Jalsha
 http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha 2
