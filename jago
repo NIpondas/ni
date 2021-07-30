@@ -2,11 +2,11 @@
 #EXTINF:-1,Discovery Bangla
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1,Star Jalsha
-http://tv.pmcon.net/hls/stream31.m3u8
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1,Star Jalsha 2
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 #EXTINF:-1,Z Bangla
-http://180.210.191.2/hls/stream30.m3u8
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1,Z Bangla 2
 http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 
