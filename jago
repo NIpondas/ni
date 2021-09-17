@@ -1,17 +1,16 @@
 #EXTM3U8
 #EXTINF:-1,Star Jalsha
-http://103.81.104.118/hls/starjalsha.m3u8
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 #EXTINF:-1,Star Jalsha 2
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 #EXTINF:-1,Z Bangla 1
-http://103.81.104.118/hls/zeebanglahd.m3u8
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1,Z Bangla
 http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (2)
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Color Bangla
-http://103.81.104.118/hls/colorsbangla.m3u8
+
 #EXTINF:-1,G Tv
 http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television http://103.106.2.149:13456/btv.m3u8
@@ -20,7 +19,7 @@ http://103.81.104.118/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24 [BD]
 http://10.16.100.205:8082/bangla/Chanel24_local_bD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24 HD [BD]
-http://103.81.104.118/hls/news24.m3u8
+http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD [BD]
 http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV [BD]
