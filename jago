@@ -1,6 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,Star Jalsha
-http://103.205.133.40/hls/chsj.m3u8
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1,Z Bangla
 https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (2)
