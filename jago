@@ -284,3 +284,26 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Jagobd",VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/live-orgin/voicetv.stream/chunks.m3u8
+
+http://15.1.5.14:8082/sangeet-bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bangla-talkies.png" group-title="Music", 62. BANGLA TALKIES
+http://15.1.5.14:8082/BANGLA-TALKIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mtv.png" group-title="Music", 63. MTV
+http://stream.amrbd.com:8082/Mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zoom.png" group-title="Music", 64. ZOOM
+http://stream.amrbd.com:8082/Zoom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/9xm.png" group-title="Music", 65. 9XM
+http://stream.amrbd.com:8082/9XM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/9x-jalwa.png" group-title="Music", 66. 9X JALWA
+http://stream.amrbd.com:8082/9X-Jalwa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-music.png" group-title="Music", 67. B4U MUSIC
+http://15.1.5.14:8082/b4u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bindass.png" group-title="Music", 68. BINDASS
+http://stream.amrbd.com:8082/Bindass/index.m3u8
