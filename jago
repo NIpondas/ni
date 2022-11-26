@@ -2,7 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. Nipon SPORTS HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
-
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA (Toffee HD)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA (Toffee)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 79. STAR SPORTS 1 HD
 http://15.1.5.10:8082/STAR-SPORTS-1/index.m3u8
 
