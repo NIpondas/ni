@@ -6,6 +6,17 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA (Toffee)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test", 1
+http://103.159.4.38:8091/CH1-SP1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCDzSKvd/Nagorik.png" group-title="test", 2
+http://103.159.4.38:8091/CH2-SP2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="test", 3
+http://103.159.4.38:8091/CH3-SP3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test", 4
+http://103.159.4.38:8091/CH4-SP4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test", 5
+http://103.159.4.38:8091/CH5-SP5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 79. STAR SPORTS 1 HD
 http://15.1.5.10:8082/STAR-SPORTS-1/index.m3u8
 
