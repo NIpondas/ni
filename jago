@@ -7,6 +7,11 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA (Toffee)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 
+#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (1080p)
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
+#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
+
 #EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
 https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
 
