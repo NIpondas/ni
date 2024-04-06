@@ -1,6 +1,15 @@
-#EXTM3U8h
+#EXTM3U8
+
+#EXTINF:-1 group-title=" BANGLA" , ZEE BANGLA 1
+http://sansat.net:88/02029761595924/9d089925dc60a821/100707
+
 #EXTINF:-1,Z Bangla 
 https://tv5.hoichoi24.com/1405/tracks-v1/mono.m3u8
+#EXTINF:-1,COLORS BANGLA HD
+http://sansat.net:88/02029761595924/9d089925dc60a821/100639
+
+#EXTINF:-1,STAR JALSHA
+http://sansat.net:88/02029761595924/9d089925dc60a821/100642
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png",BTV World
 #http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
@@ -19,9 +28,8 @@ http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100659
 http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS [BD]
-#https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
-#http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
-http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+http://sansat.net:88/02029761595924/9d089925dc60a821/100650
+
 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 #http://208.86.19.13:81/660.stream/index.m3u8
